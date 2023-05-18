@@ -1,0 +1,44 @@
+C:\ProjectC#\2-1\Belaev\controlWord 4\bin\Debug\controlWord 4.exe.config
+C:\ProjectC#\2-1\Belaev\controlWord 4\bin\Debug\controlWord 4.exe
+C:\ProjectC#\2-1\Belaev\controlWord 4\bin\Debug\controlWord 4.pdb
+C:\ProjectC#\2-1\Belaev\controlWord 4\obj\Debug\controlWord 4.csproj.AssemblyReference.cache
+C:\ProjectC#\2-1\Belaev\controlWord 4\obj\Debug\controlWord 4.csproj.CoreCompileInputs.cache
+C:\ProjectC#\2-1\Belaev\controlWord 4\obj\Debug\controlWord 4.exe
+C:\ProjectC#\2-1\Belaev\controlWord 4\obj\Debug\controlWord 4.pdb
+C:\C#2\controlWord 4\bin\Debug\controlWord 4.exe.config
+C:\C#2\controlWord 4\bin\Debug\controlWord 4.exe
+C:\C#2\controlWord 4\bin\Debug\controlWord 4.pdb
+C:\C#2\controlWord 4\obj\Debug\controlWord 4.csproj.AssemblyReference.cache
+C:\C#2\controlWord 4\obj\Debug\controlWord 4.csproj.SuggestedBindingRedirects.cache
+C:\C#2\controlWord 4\obj\Debug\controlWord 4.csproj.CoreCompileInputs.cache
+C:\C#2\controlWord 4\obj\Debug\controlWord 4.exe
+C:\C#2\controlWord 4\obj\Debug\controlWord 4.pdb
+C:\Users\comp0705\Desktop\controlWord 4\obj\Debug\controlWord 4.csproj.AssemblyReference.cache
+C:\Users\comp0705\Desktop\controlWord 4\obj\Debug\controlWord 4.csproj.CoreCompileInputs.cache
+C:\Users\comp0705\Desktop\controlWord 4\obj\Debug\controlWord 4.exe
+C:\Users\comp0705\Desktop\controlWord 4\obj\Debug\controlWord 4.pdb
+C:\Users\comp0705\Desktop\controlWord 4\bin\Debug\controlWord 4.exe.config
+C:\Users\comp0705\Desktop\controlWord 4\bin\Debug\controlWord 4.exe
+C:\Users\comp0705\Desktop\controlWord 4\bin\Debug\controlWord 4.pdb
+C:\ProjectC#\2-1\Egorov\controlWord 4\bin\Debug\controlWord 4.exe.config
+C:\ProjectC#\2-1\Egorov\controlWord 4\bin\Debug\controlWord 4.exe
+C:\ProjectC#\2-1\Egorov\controlWord 4\bin\Debug\controlWord 4.pdb
+C:\ProjectC#\2-1\Egorov\controlWord 4\obj\Debug\controlWord 4.csproj.AssemblyReference.cache
+C:\ProjectC#\2-1\Egorov\controlWord 4\obj\Debug\controlWord 4.csproj.CoreCompileInputs.cache
+C:\ProjectC#\2-1\Egorov\controlWord 4\obj\Debug\controlWord 4.exe
+C:\ProjectC#\2-1\Egorov\controlWord 4\obj\Debug\controlWord 4.pdb
+C:\Users\Admin\Desktop\учеба 2\controlWord 4\bin\Debug\controlWord 4.exe.config
+C:\Users\Admin\Desktop\учеба 2\controlWord 4\bin\Debug\controlWord 4.exe
+C:\Users\Admin\Desktop\учеба 2\controlWord 4\bin\Debug\controlWord 4.pdb
+C:\Users\Admin\Desktop\учеба 2\controlWord 4\obj\Debug\controlWord 4.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба 2\controlWord 4\obj\Debug\controlWord 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\учеба 2\controlWord 4\obj\Debug\controlWord 4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба 2\controlWord 4\obj\Debug\controlWord 4.exe
+C:\Users\Admin\Desktop\учеба 2\controlWord 4\obj\Debug\controlWord 4.pdb
+C:\Users\comp0705\Downloads\controlWord 4\bin\Debug\controlWord 4.exe.config
+C:\Users\comp0705\Downloads\controlWord 4\bin\Debug\controlWord 4.exe
+C:\Users\comp0705\Downloads\controlWord 4\bin\Debug\controlWord 4.pdb
+C:\Users\comp0705\Downloads\controlWord 4\obj\Debug\controlWord 4.csproj.AssemblyReference.cache
+C:\Users\comp0705\Downloads\controlWord 4\obj\Debug\controlWord 4.csproj.CoreCompileInputs.cache
+C:\Users\comp0705\Downloads\controlWord 4\obj\Debug\controlWord 4.exe
+C:\Users\comp0705\Downloads\controlWord 4\obj\Debug\controlWord 4.pdb
